@@ -1,5 +1,13 @@
 # Login, loggout and user api using passport and laravel 5.3
 
+Installation :
+
+1. Database file from : database/script/db.sql
+
+2. composer update
+
+3. update passport keys if not working.
+
 
 # Laravel PHP Framework
 
